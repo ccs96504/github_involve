@@ -18,8 +18,16 @@ touch ISE-API.py
 ```
 code  /ISE-api
 ```
-### 4. 
-5. 用VScode開啟
+### 4. 先init project
+但是要先到project底下做init
+```
+git init
+```
+### 5. 在做 git config
+git config --global  user.name "yuzhu.chen"
+git config --global  user.email "ccs96504@gmail.com"
+git config --list
+
 code  /ISE-api
 
 6. 先init
