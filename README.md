@@ -42,31 +42,13 @@ git add .
 ```
 git remote add origin https://github.com/ccs96504/ise_api.git
 ```
+### 8. [步驟五]  git push {url}
+```
+git push https://github.com/ccs96504/ise_api.git
+```
 
 
-
-remote add {github} https://github.com/ccs96504/ise_api.git
-7. git config
-git config --global  user.name "yuzhu.chen"
-git config --global  user.email "ccs96504@gmail.com"
-git config --list
-
-8. add commitee
-#git config --global --add safe.directory D:/ISE-api
-git add .
-
-
-9. add commit 
-git commit -m "create py for ise_adduserendpoint.py"
-
-10. remote add {github} https://github.com/ccs96504/ise_api.git
-git remote add origin https://github.com/ccs96504/ise_api.git
-
-11. git push 
-git push -u origin master
-
-
-[方法一]
+## [方法二]
 
 # 方法2
 
