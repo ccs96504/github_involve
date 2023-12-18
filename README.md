@@ -1,11 +1,12 @@
 
-[方法一]
+## [方法一]
 
 ### 1. 建資料夾, dirname eg:test_dir 
-### mkdir /{test_dir}
+#### mkdir /{test_dir}
 ```
 mkdir /ISE-api
 ```
+### 2. 到資料夾底下建立code檔案, 使用touch
 3. 到資料夾底下建立.py
 ```
 cd /ISE-api
