@@ -1,13 +1,11 @@
 
 [方法一]
 
-1. 建資料夾
+1. 建資料夾,dirname eg:test_dir{}
 ```
 mkdir /ISE-api
 ```
 3. 到資料夾底下建立.py
-
-
 ```
 cd /ISE-api
 ```
