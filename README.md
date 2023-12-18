@@ -14,8 +14,10 @@ cd /ISE-api
 ```
 touch ISE-API.py
 ```
-###
-
+### 3. 用code開啟project, 指向資料夾{test_dir }
+```
+code  /ISE-api
+```
 5. 用VScode開啟
 code  /ISE-api
 
