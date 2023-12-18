@@ -2,9 +2,9 @@
 [方法一]
 
 1. 建資料夾
-ˋˋˋ
+```
 mkdir /ISE-api
-ˋˋˋ
+```
 3. 到資料夾底下建立.py
 cd /ISE-api
 touch ISE-API.py
