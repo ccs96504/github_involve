@@ -6,9 +6,11 @@
 mkdir /ISE-api
 ```
 3. 到資料夾底下建立.py
-ˋˋˋ
+
+
+```
 cd /ISE-api
-ˋˋˋ
+```
 touch ISE-API.py
 5. 用VScode開啟
 code  /ISE-api
