@@ -6,32 +6,34 @@
 mkdir /ISE-api
 ```
 3. 到資料夾底下建立.py
+ˋˋˋ
 cd /ISE-api
+ˋˋˋ
 touch ISE-API.py
-4. 用VScode開啟
+5. 用VScode開啟
 code  /ISE-api
 
-5. 先init
+6. 先init
 在到/ISE-api
 git init
 
-6. git config
+7. git config
 git config --global  user.name "yuzhu.chen"
 git config --global  user.email "ccs96504@gmail.com"
 git config --list
 
-7. add commitee
+8. add commitee
 #git config --global --add safe.directory D:/ISE-api
 git add .
 
 
-8. add commit 
+9. add commit 
 git commit -m "create py for ise_adduserendpoint.py"
 
-9. remote add {github} https://github.com/ccs96504/ise_api.git
+10. remote add {github} https://github.com/ccs96504/ise_api.git
 git remote add origin https://github.com/ccs96504/ise_api.git
 
-10. git push 
+11. git push 
 git push -u origin master
 
 
