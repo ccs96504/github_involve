@@ -2,7 +2,7 @@
 [方法一]
 
 1. 建資料夾
-mkdir /ISE-api
+'mkdir /ISE-api'
 2. 到資料夾底下建立.py
 cd /ISE-api
 touch ISE-API.py
@@ -33,7 +33,7 @@ git remote add origin https://github.com/ccs96504/ise_api.git
 git push -u origin master
 
 
-
+[方法一]
 
 # 方法2
 
