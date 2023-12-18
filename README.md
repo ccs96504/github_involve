@@ -1,8 +1,8 @@
 
 [方法一]
 
-# 1. 建資料夾, dirname eg:test_dir 
-## mkdir /{test_dir}
+### 1. 建資料夾, dirname eg:test_dir 
+### mkdir /{test_dir}
 ```
 mkdir /ISE-api
 ```
