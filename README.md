@@ -18,22 +18,34 @@ touch ISE-API.py
 ```
 code  /ISE-api
 ```
-### 4. 先init project
+### 4. [步驟一] init project
 但是要先到project底下做init
 ```
 git init
 ```
-### 5. 在做 git config
+### 5. [步驟二] git config
+可以發現git裡面資訊要出現(main/master)才算完成
+```
 git config --global  user.name "yuzhu.chen"
 git config --global  user.email "ccs96504@gmail.com"
 git config --list
+git config --global --add safe.directory D:/ISE-api
+```
 
-code  /ISE-api
+### 6. [步驟三] add commitee
+```
+git add .
+```
 
-6. 先init
-在到/ISE-api
-git init
+### 7. [步驟四]  git remote add origin {url}
+配置上傳git的url
+```
+git remote add origin https://github.com/ccs96504/ise_api.git
+```
 
+
+
+remote add {github} https://github.com/ccs96504/ise_api.git
 7. git config
 git config --global  user.name "yuzhu.chen"
 git config --global  user.email "ccs96504@gmail.com"
