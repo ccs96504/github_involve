@@ -1,7 +1,7 @@
 
 [方法一]
 
-1. 建資料夾,dirname eg:test_dir{}
+1. 建資料夾, dirname eg:test_dir {ISE-api}
 ```
 mkdir /ISE-api
 ```
